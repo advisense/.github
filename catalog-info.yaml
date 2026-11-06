@@ -5,6 +5,6 @@ metadata:
   name: github
   description: "GitHub organization profile for Advisense."
 spec:
-  type: demo  # service | website | library | tool | demo
-  lifecycle: experimental  # experimental (demo/PoC) | production | deprecated
+  type: tool  # service | website | library | tool | demo
+  lifecycle: production  # experimental (demo/PoC) | production | deprecated
   owner: group  # owning team or business unit, lowercase
